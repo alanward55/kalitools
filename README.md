@@ -7,7 +7,7 @@ Alat untuk menginstall tools Kali LInux pada distro lain
 - Menghapus repositori Kali Linux
 - Menginstall tools Kali Linux
 
-# Requirements
+# Yang Dibutuhkan
 - Python 2.7
 - Os berbasis linux (teruji di ubuntu)
 
@@ -22,15 +22,14 @@ Alat untuk menginstall tools Kali LInux pada distro lain
 - Cukup menuliskan angka pada tools yang akan diinstall
 - back : kembali
 - gohome : ke menu utama
-- setelah menginstall armitage , kamu akan menginstall metasploit
+- setelah menginstall armitage , anda bisa menginstall metasploit
 
 # Perhatian!
 Setalah memperbarui sistem , harap hapus semua Kali-linux repositori untuk mencegah beberapa masalah.
 
 # Pertanyaan??
-
-kunjungi https://github.com/alanward55/kalitools
-
-# Contact
+Bisa langsung hubungi via wa <a href="wa.me/6285326728933">disini</a>
+  
+# Hubungi saya
 - Phone : +6285326728933
 - Email : ondeuli@gmail.com
